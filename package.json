@@ -1,0 +1,8 @@
+{
+  "name": "ant-design-vueuse",
+  "version": "1.0.0",
+  "description": "the use of ant-desgin-vue on the sandbox",
+  "keywords": [],
+  "main": "/index.html",
+  "dependencies": {}
+}
