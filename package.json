@@ -4,5 +4,8 @@
   "description": "the use of ant-desgin-vue on the sandbox",
   "keywords": [],
   "main": "/index.html",
-  "dependencies": {}
+  "dependencies": {
+    "@vue/cli-plugin-babel": "4.1.1",
+    "vue": "2.6.11"
+  }
 }
